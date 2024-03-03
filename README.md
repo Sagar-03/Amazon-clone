@@ -31,9 +31,6 @@ This project is a clone of Amazon.in, aiming to replicate its functionalities an
 ### Contributions:
 Contributions are welcome! If you'd like to contribute to this project, feel free to submit a pull request with your changes.
 
-### License:
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
-
 ### Acknowledgements:
 - Special thanks to Amazon.in for providing inspiration and reference for this project.
 - Thanks to all contributors and supporters of this project.
